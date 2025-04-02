@@ -11,7 +11,7 @@
 - <b>IT Support Professional Mocks</b>
   - [IT Support Ticket System](https://github.com/Bargerct/IT-Support-Ticket-System-Mock-)
 
-  <h2>🎮 Game Design Projects:</h2>
+<h2>🎮 Game Design Projects:</h2>
 
 <h2>🤳 Connect with me:</h2>
 
