@@ -9,7 +9,7 @@
 <h2>👨‍💻 IT / Networking Projects:</h2>
 
 - <b>IT Support Proffesional Mocks</b>
-  - [IT Support Ticket System](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [IT Support Ticket System](https://github.com/Bargerct/IT-Support-Ticket-System-Mock-)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
