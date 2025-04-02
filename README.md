@@ -1,5 +1,5 @@
 
-<h1>Hi, I'm Caden! <br/><a  ">MIS student with experience in IT operations, data analysis, and computer networking</a></h1>
+<h1>Hi, I'm Caden! <br/><a  ">MIS student with experience in IT Operations, Data Analysis, and Computer Networking</a></h1>
 
 <h2>✅ Certifications :</h2>
 
