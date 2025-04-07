@@ -12,12 +12,12 @@
   - [IT Support Ticket System](https://github.com/Bargerct/IT-Support-Ticket-System-Mock-)
 
 - <b>Ethical Hacking</b>
-  - [TCP Spoof (Mock)](https://github.com/Bargerct/IT-Support-Ticket-System-Mock-)
+  - TCP Spoof (Mock)
 
 <h2>📁 Personal Projects:</h2>
 
 - <b>Gamerscore Website</b>
-  - [Independently Developed Website (MyGamerscore)](https://github.com/Bargerct/IT-Support-Ticket-System-Mock-)
+  - Independently Developed Website (MyGamerscore)
 
 <h2>🤳 Connect with me:</h2>
 
