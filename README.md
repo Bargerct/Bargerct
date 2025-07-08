@@ -9,7 +9,7 @@
 <h2>👨‍💻 IT / Networking Projects:</h2>
 
 - <b>IT Support Professional Mocks</b>
-  - [IT Support Ticket System](https://github.com/Bargerct/IT-Support-Ticket-System-Mock-)
+  - [IT SLA Tracker](https://github.com/Bargerct/IT-SLA-Tracker)
 
 - <b>Ethical Hacking</b>
   - TCP Spoof (Mock)
