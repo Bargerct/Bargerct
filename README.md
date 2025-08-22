@@ -6,13 +6,13 @@
   - [Technical Support Fundamentals (Google Certificate)](https://coursera.org/share/d5ec3c70355961088838b0ee31f47c7e)
   - [The Bits and Bytes of Computer Networking (Google Certificate)](https://coursera.org/share/cd1a47aec5cb68b276f88242aa67778e)
 
+<h2>🛡️ Cybersecurity Projects:</h2>
+
+- <b>[Snowflake Threat Hunting](https://github.com/Bargerct/Snowflake-threat-hunting-cicids2018)</b>
+
 <h2>👨‍💻 IT / Networking Projects:</h2>
 
-- <b>IT Support Professional Mocks</b>
-  - [IT SLA Tracker](https://github.com/Bargerct/IT-SLA-Tracker)
-
-- <b>Ethical Hacking</b>
-  - TCP Spoof (Mock)
+- <b>[IT SLA Tracker](https://github.com/Bargerct/IT-SLA-Tracker)</b>
 
 <h2>📁 Personal Projects:</h2>
 
